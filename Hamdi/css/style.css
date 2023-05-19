@@ -23,3 +23,17 @@
     text-decoration: none;
     color: white;
 }
+#welcome-section h1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(71, 163, 18, 0.918);
+    color: white;
+    font-size: 48px;
+    
+}
+
+
+
